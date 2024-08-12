@@ -11,8 +11,8 @@ const authStore = useAuthStore();
 <template>
   <AuthenticationLogin
     :loading="authStore.loginLoading"
-    password-placeholder="123456"
-    username-placeholder="vben"
+    password-placeholder=""
+    username-placeholder=""
     @submit="authStore.authLogin"
   />
 </template>
