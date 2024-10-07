@@ -16,10 +16,10 @@
       },
       "dept": {
         "deptManger": "组织管理"
+      },
+      "logs": {
+        "title": "日志管理"
       }
-    },
-    "logs": {
-      "title": "日志管理"
     }
   }
 }

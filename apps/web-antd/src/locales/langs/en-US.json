@@ -16,10 +16,10 @@
       },
       "dept": {
         "deptManger": "Dept"
+      },
+      "logs": {
+        "title": "Logs"
       }
-    },
-    "logs": {
-      "title": "Logs"
     }
   }
 }
