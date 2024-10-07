@@ -18,7 +18,7 @@
         "deptManger": "Dept"
       },
       "logs": {
-        "title": "Logs"
+        "logsManger": "Logs"
       }
     }
   }

@@ -18,7 +18,7 @@
         "deptManger": "组织管理"
       },
       "logs": {
-        "title": "日志管理"
+        "logsManger": "日志管理"
       }
     }
   }
